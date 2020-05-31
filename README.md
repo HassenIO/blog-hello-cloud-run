@@ -2,5 +2,4 @@
 
 ---
 
-Details can be found on the blog page... tbd
-
+Details can be found on the blog page <insert Here>
